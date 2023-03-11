@@ -1,4 +1,4 @@
-{
+{  "homepage": "https://brand0nle.github.io/tictactoe/",
   "name": "tictactoe",
   "version": "1.0.0",
   "description": "",
@@ -19,6 +19,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Brand0nLe/tictactoe/issues"
-  },
-  "homepage": "https://brand0nle.github.io/tictactoe/"
+  }
 }
