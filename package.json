@@ -1,7 +1,7 @@
 {
-  "homepage": "https://brand0nle.github.io/tictactoe/",
   "name": "tictactoe",
   "version": "1.0.0",
+  "homepage": "https://brand0nle.github.io/tictactoe/",
   "description": "",
   "main": "index.js",
   "devDependencies": {
